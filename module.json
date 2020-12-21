@@ -1,0 +1,20 @@
+{
+  "name": "mikwewa-cavern-temple",
+  "title": "Mikwewa's Cavern Temple $5 Maps",
+  "description": "<p>Preconfigured Cavern Temple Battlemap Pack by MikWewa. Walls and lighting are already configured, so you can play straight up! Enjoy your adventuring and have fun!</p>",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "1.0.0",
+  "author": "Mik and Wewa",
+  "packs": [
+    {
+      "name": "maps",
+      "label": "Cavern Temple $5 Maps",
+      "path": "/packs/maps.db",
+      "entity": "Scene"
+    }
+  ],
+  "url": "https://www.patreon.com/mikwewa/",
+  "manifest": "https://github.com/majkelele10/test/blob/master/module.json",
+  "download": "https://www.dropbox.com/s/fzb94sfldlyzz1z/mikwewa-cavern-temple.zip?dl=0"
+}
