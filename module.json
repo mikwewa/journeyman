@@ -15,6 +15,6 @@
     }
   ],
   "url": "https://www.patreon.com/mikwewa/",
-  "manifest": "https://github.com/majkelele10/test/blob/master/module.json",
-  "download": "https://www.dropbox.com/s/fzb94sfldlyzz1z/mikwewa-cavern-temple.zip?dl=0"
+  "manifest": "https://raw.githubusercontent.com/mikwewa/journeyman/main/module.json",
+  "download": "https://github.com/mikwewa/journeyman/blob/main/mikwewa-cavern-temple.zip"
 }
